@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../CollectionFramWork/CollectionFramWork.iml" filepath="$PROJECT_DIR$/../CollectionFramWork/CollectionFramWork.iml" />
-      <module fileurl="file://$USER_HOME$/Documents/MyProject-master/MyProject-master/MyStoreProject/MyStoreProject.iml" filepath="$USER_HOME$/Documents/MyProject-master/MyProject-master/MyStoreProject/MyStoreProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Documents/MyProject-master/MyProject-master/MyStoreProject/MyStoreProject.iml" filepath="$PROJECT_DIR$/../Documents/MyProject-master/MyProject-master/MyStoreProject/MyStoreProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../myprogram/myprogram.iml" filepath="$PROJECT_DIR$/../myprogram/myprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/../programsForInterview/programsForInterview1.iml" filepath="$PROJECT_DIR$/../programsForInterview/programsForInterview1.iml" />
     </modules>
