@@ -20,6 +20,10 @@ public class AmazonTest {
 
         driver.findElement(By.xpath("//input[@id='twotabsearchtextbox']")).sendKeys("Apple iPhone 12 (64GB) - Purple");
         driver.findElement(By.xpath("//input[@id='nav-search-submit-button']")).click();
+        System.out.println("1");
+        System.out.println("2");
+        System.out.println("3");
+        System.out.println("4");
 
     }
 }
