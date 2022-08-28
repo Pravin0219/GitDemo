@@ -3,6 +3,7 @@ package com.alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
 
 public class AmazonTest {
     public static void main(String[] args) throws InterruptedException {
@@ -30,6 +31,20 @@ public class AmazonTest {
         System.out.println("Two");
         System.out.println("Three");
         System.out.println("Four");
+
+        public void test(){
+            System.out.println("it's for all");
+        }
+
+
+        public void test2(){
+            System.out.println("it's for all");
+        }
+
+        public void test3(){
+            System.out.println("it's for all");
+        }
+
         
 
     }
